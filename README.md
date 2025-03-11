@@ -3,6 +3,6 @@ This repository contains the data processing and analysis pipeline for our study
 
 ## Repository Structure
 - `data/` – Processed datasets (metadata and raw count matrices)
-- `scripts/` – Code for preprocessing, differential expression analysis, and visualization
-- `results/` – Output figures used in the manuscript
+- `code/` – Code for preprocessing, differential expression analysis, and visualization
+- `figures/` – Output figures used in the manuscript
 - `README.md` – Project documentation
